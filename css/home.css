@@ -1,0 +1,115 @@
+
+/*global goes here*/
+html {
+	font-size: 15px;
+}
+/*global end here*/
+
+/*header start here*/
+.navbar-default {
+	background-color: #2f477a;
+}
+#header .fa1 {
+	padding: 10px 0 10px 50px;
+	color: #fff;
+}
+#header .input-group {
+	padding: 14px 0;
+}
+#header .fa2 {
+	padding: 10px 0;
+}
+.fa3 {
+	font-size: 1rem;
+	padding: 19px 0 19px;
+}
+.fa3 a {
+	color: #fff;
+	text-decoration: none;
+}
+/*header end here*/
+
+/*banner start here*/
+.carousel1 {
+	margin-top: 70px;
+}
+.carousel2 {
+	margin-top: 70px;
+	background-color: #ccc;
+}
+.carousel-inner > .item > img {
+	width: 100%;
+	height: auto;
+}
+/*banner end here*/
+
+
+
+
+
+
+
+
+/*bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb*/
+
+/*nav-section start here*/
+header nav .navbar {
+	margin: 0;
+	padding: 0;
+}
+
+#nav .bar1 {
+	padding: 10px;
+}
+#nav .fa {
+	padding: 0 20px;
+}
+.thumbnail {
+	background-color: #000;
+	margin: 0;
+	padding: 0;
+}
+.thumbnail .fa, .thumbnail p {
+	color: #fff;
+}
+/*nav-section end here*/
+
+
+/*stories start here*/
+#stories {
+	position: relative;
+}
+.pro {
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%,15%);
+	border: 1px solid #ccc;
+}
+/*stories start here*/
+
+/*profile start here*/
+#profile .row {
+	font-size: .7rem;
+}
+#profile h2 {
+	margin-top: 120px;
+}
+.bar2 {
+	background-color: #ccc;
+	padding: 20px;
+}
+.bar2 a {
+	padding: 22px;
+	text-decoration: none;
+}
+.bar3 {
+	margin-top: 15px;
+}
+#profile .form-control {
+	margin: 14px;
+	border-radius: 10px;
+}
+/*profile end here*/

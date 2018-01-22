@@ -1,0 +1,157 @@
+
+/*global goes here*/
+html {
+	font-size: 15px;
+}
+/*global goes here*/
+
+/*header form*/
+header form {
+	padding: 15px;
+	color: #fff;
+}
+header form p a {
+	color: #fff;
+	font-size: .6rem;
+}
+header form p a:hover {
+	color: #fff;
+}
+/*header form*/
+
+/*body section goes here*/
+#body .name {
+	margin-top: -40px;
+}
+#body form .alink {
+	font-size: .7rem;	
+}
+#body form .alink2 {
+	font-size: 1.1rem;
+	margin-bottom: 10px;	
+}
+#body form .alink3 {
+	font-size: .7rem;
+	margin-bottom: 10px;
+}
+#body form .alink4 {
+	margin-bottom: 20px;
+}
+#body form .alink5 {
+	font-size: .75rem;
+	margin-bottom: 20px;
+	border-top: 1px solid #ccc;
+	padding-top: 10px;
+}
+#body {
+	background-color: #eaebef;
+}
+#body .badge {
+	background-color: #ee3c3c;
+}
+
+/*body section end here*/
+
+
+
+
+/*section body*/
+#footer {
+	margin: 20px 0 30px 0;
+}
+#footer .languages {
+	margin: 20px 0;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+}
+#footer .languages a {
+	padding: 5px;
+}
+#footer .languages .fa {
+	color: #000;
+}
+/*section body*/
+
+
+
+
+/*header goes here*/
+.large-h1 {
+	font-size: 1.7em;
+	padding: 23px 0;
+}
+
+.navbar-default {
+	background-color: #44619d;
+	margin-bottom: -2px;
+}
+header .row h1 {
+	font-size: 1.2em;
+	padding: 10px 0;
+	margin: 0;
+	color: #fff;
+	font-weight: bolder;
+}
+/*header end here*/
+
+
+
+/*section form*/
+#form {
+	background-color: #ccc;
+
+}
+.app {
+	border: 1px solid #e2c822;
+	background-color: #fffbe2;
+}
+.app h4 {
+	font-size: .7rem;
+}
+#form .row {
+	position: relative;
+}
+.row .fa {
+	position: absolute;
+	top: 0%;
+	left: 10%;
+	transform: translate(-210%);
+}
+/*section form*/
+
+
+/*form*/
+.form2 .btn {
+	margin: 24px 30px 24px -14px;
+	font-size: .7rem;
+	font-weight: bold;
+	padding: 9px;
+}
+
+.form1 {
+	margin-bottom: -23px;
+}
+form .btn {
+	width: 100%;
+}
+/*form*/
+
+
+
+
+/*language goes here*/
+.language {
+	margin-top: 20px;
+}
+.language1 p {
+	font-size: .8rem;
+}
+/*language goes here*/
+
+
+/*footer*/
+footer {
+	color: #6a6464;
+}
+/*footer*/
+
